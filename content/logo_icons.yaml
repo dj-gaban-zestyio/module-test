@@ -1,0 +1,81 @@
+
+  - id: "850d-8b4b-f77a"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 106
+      listed: true
+    data:
+      image: "https://vb30g2hj.media.zestyio.com/phoenix.png"
+      link: "https://www.nba.com/suns"
+      sort_order: 2
+  - id: "e337-0020-c3c7"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      image: "https://vb30g2hj.media.zestyio.com/acorns.png"
+      link: "https://www.acorns.com/learn/"
+      sort_order: 1
+  - id: "262d-2cfe-a330"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 104
+      listed: true
+    data:
+      image: "https://vb30g2hj.media.zestyio.com/rocket.png"
+      link: "https://www.rocketleague.com/"
+      sort_order: 3
+  - id: "b7cb-1a59-aa72"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 103
+      listed: true
+    data:
+      image: "https://vb30g2hj.media.zestyio.com/sony.png"
+      link: "https://www.sony.com.ph/"
+      sort_order: null

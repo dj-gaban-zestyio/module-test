@@ -1,0 +1,19 @@
+
+  - id: "4d49-574e-b838"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      title: "Learning PureCSS for Logo Section"
