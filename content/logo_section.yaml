@@ -1,0 +1,19 @@
+
+  - id: "cea3-a489-04b4"
+    web:
+      metaDescription: ""
+      metaTitle: "Logo Section"
+      metaLinkText: "Logo Section"
+      metaKeywords: null
+      pathPart: "logo-section"
+      path: "/logo-section/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      logo_header: "Logo section sample using PureCSS"
